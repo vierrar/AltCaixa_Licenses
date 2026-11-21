@@ -1,0 +1,30 @@
+
+{
+  "stores": [
+    {
+      "store_name": "Irmãos Alves - Loja 01",
+      "company_name": "IRMAOS ALVES MATERIAIS DE CONSTRUCAO E SERVICOS LTDA",
+      "trade_name": "IRMAOS ALVES MATERIAIS DE CONSTRUCAO E SERVICOS LTDA",
+      "tax_id": "67.190.365/0001-05",
+      "state_tax_id": "16421782",
+      "company_phone": "2192470148",
+      "tax_regime": 1,
+      "zip_code": "21331-065",
+      "street": "RUA MARINA",
+      "street_number": "432",
+      "address_complement": "B",
+      "district": "MARECHAL HERMES",
+      "city_name": "Rio de Janeiro",
+      "city_code": "3304557",
+      "state_code": "RJ",
+      "nfce_series": 1,
+      "next_nfce_number": 47,
+      "csc_id": null,
+      "default_ncm": null,
+      "default_cfop": "5102",
+      "default_icms_cst": null,
+      "default_pis_cst": null,
+      "default_cofins_cst": null
+    }
+  ]
+}
